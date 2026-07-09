@@ -1,80 +1,106 @@
-<h1 align="center">Hi 👋, I'm Tanya Nassa</h1>
+<div align="center">
 
-<h3 align="center">
-B.Tech Student | DSA Enthusiast | Machine Learning Learner
-</h3>
+# Hi 👋 I'm Tanya Nassa
 
----
+### 💻 B.Tech Student • DSA Enthusiast • Machine Learning Enthusiast
 
-## 👩‍💻 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Machine+Learning+Learner;Backend+Development+Explorer;Always+Learning+New+Things🚀" />
 
-🎓 B.Tech Student at GL Bajaj Institute of Technology & Management
-
-🌱 Currently learning
-- Data Structures & Algorithms
-- Machine Learning
-- Backend Development
-
-💻 Solving problems on LeetCode
-
-🚀 Passionate about building real-world software projects
-
-🏆 Hackathon Participant
+</div>
 
 ---
 
-# 💻 Tech Stack
+## 🚀 About Me
 
-### Languages
+<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-C++ • Python • SQL • HTML • CSS
+🎓 B.Tech @ **GL Bajaj Institute of Technology & Management**
 
-### Libraries & Tools
+💻 Currently solving **Data Structures & Algorithms**
 
-Scikit-Learn • Pandas • NumPy • Git • GitHub • MySQL • VS Code • Postman
+🤖 Exploring **Machine Learning**
+
+⚙️ Learning **Backend Development**
+
+🌱 Goal: Build impactful real-world software
+
+⚡ Fun Fact: I enjoy debugging almost as much as coding.
+
+<br clear="right"/>
 
 ---
 
-# 🚀 Projects
+# 🛠 Tech Stack
 
-### 🔗 Shortify AI
-A URL shortening platform built using C++.
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,git,github,mysql,vscode,html,css" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🔗 Shortify-AI
+
+> URL Shortening Platform built using C++.
+
+---
 
 ### 📊 Customer Churn Prediction
-Machine Learning project using Logistic Regression, Decision Tree, Random Forest and XGBoost.
+
+> ML project comparing Logistic Regression, Decision Tree, Random Forest & XGBoost.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanyanassa&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyanassa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=tanyanassa&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanyanassa&theme=tokyo-night&hide_border=true"/>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🌐 Connect With Me
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7)
+<p align="center">
+
+<a href="https://github.com/tanyanassa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+
+<a href="mailto:tanyanassa07@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ---
 
-# 📫 Connect With Me
+<div align="center">
 
-GitHub : https://github.com/YOUR_USERNAME
+### ⭐ Thanks for visiting my profile!
 
-LinkedIn : YOUR_LINKEDIN
-
-Email : YOUR_EMAIL
-
----
-
-⭐ Thanks for visiting my profile!
+</div>
