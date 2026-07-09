@@ -1,106 +1,89 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Tanya Nassa</h1>
 
-# Hi 👋 I'm Tanya Nassa
-
-### 💻 B.Tech Student • DSA Enthusiast • Machine Learning Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Machine+Learning+Learner;Backend+Development+Explorer;Always+Learning+New+Things🚀" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/tanyanassa">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=B.Tech+Student;Data+Structures+%26+Algorithms;Machine+Learning+Enthusiast;Backend+Development+Learner;Always+Learning+🚀" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-🎓 B.Tech @ **GL Bajaj Institute of Technology & Management**
-
-💻 Currently solving **Data Structures & Algorithms**
-
-🤖 Exploring **Machine Learning**
-
-⚙️ Learning **Backend Development**
-
-🌱 Goal: Build impactful real-world software
-
-⚡ Fun Fact: I enjoy debugging almost as much as coding.
-
-<br clear="right"/>
+- 🎓 **B.Tech Student** at **GL Bajaj Institute of Technology & Management**
+- 💻 Solving **Data Structures & Algorithms**
+- 🤖 Exploring **Machine Learning**
+- ⚙️ Learning **Backend Development**
+- 🚀 Passionate about building impactful software
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=cpp,python,git,github,mysql,vscode,html,css" />
-
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 📌 Featured Projects
 
 ### 🔗 Shortify-AI
-
-> URL Shortening Platform built using C++.
-
----
+> URL shortening platform built using **C++**.
 
 ### 📊 Customer Churn Prediction
-
-> ML project comparing Logistic Regression, Decision Tree, Random Forest & XGBoost.
+> Machine Learning project using multiple classification algorithms.
 
 ---
 
-# 📊 GitHub Analytics
+## 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanyanassa&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanyanassa&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyanassa&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyanassa&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=tanyanassa&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=tanyanassa&theme=transparent&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📊 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanyanassa&theme=tokyo-night&hide_border=true"/>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanyanassa&theme=github-compact"/>
+</p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/tanyanassa">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+&nbsp;&nbsp;
 
-<a href="mailto:tanyanassa07@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
-</div>
+</p>
