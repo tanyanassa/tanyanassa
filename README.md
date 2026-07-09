@@ -68,13 +68,13 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINK">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanya-nassa-b64816313">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 &nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:tanyanassa07@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
