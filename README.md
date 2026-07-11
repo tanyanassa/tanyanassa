@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Tanya Nassa</h1>
+<div align="center">
 
-<h3 align="center">
-B.Tech Student • DSA Enthusiast • Machine Learning Enthusiast
-</h3>
+# Hi 👋, I'm Tanya Nassa
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Data+Structures+%26+Algorithms;Machine+Learning+Enthusiast;Backend+Development+Learner;Always+Learning+New+Things+🚀"/>
-</p>
+### 💻 B.Tech Student | DSA Enthusiast | Machine Learning Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=700&lines=Data+Structures+%26+Algorithms;Machine+Learning+Enthusiast;Backend+Development+Learner;Always+Learning+New+Things+🚀"/>
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech Student at **GL Bajaj Institute of Technology & Management**
+- 🎓 **B.Tech Student** at **GL Bajaj Institute of Technology & Management**
 - 💻 Passionate about **Data Structures & Algorithms**
 - 🤖 Currently learning **Machine Learning**
 - ⚙️ Exploring **Backend Development**
@@ -33,22 +33,20 @@ B.Tech Student • DSA Enthusiast • Machine Learning Enthusiast
 ## 🚀 Featured Projects
 
 ### 🔗 Shortify-AI
-
 A URL shortening platform built using **C++**.
 
 ### 📊 Customer Churn Prediction
-
-Machine Learning project for predicting customer churn using multiple classification models.
+Machine Learning project using Logistic Regression, Decision Tree, Random Forest and XGBoost.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanyanassa&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tanyanassa&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyanassa&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyanassa&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -64,11 +62,11 @@ Machine Learning project for predicting customer churn using multiple classifica
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanyanassa&theme=tokyo-night"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanyanassa&theme=github_dark"/>
 
 </p>
 
@@ -78,13 +76,17 @@ Machine Learning project for predicting customer churn using multiple classifica
 
 <p align="center">
 
-<a href="https://github.com/tanyanassa" target="_blank">
+<a href="https://github.com/tanyanassa">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/tanya-nassa-b64816313/" target="_blank">
+&nbsp;
+
+<a href="https://www.linkedin.com/in/tanya-nassa-b64816313/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="mailto:tanyanassa07@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -94,6 +96,10 @@ Machine Learning project for predicting customer churn using multiple classifica
 
 ---
 
-<h3 align="center">
+<div align="center">
+
+### 🌱 *"Consistency beats intensity."*
+
 ⭐ Thanks for visiting my profile!
-</h3>
+
+</div>
