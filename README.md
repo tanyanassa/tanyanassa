@@ -1,12 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tanya Nassa</h1>
+# Hi 👋, I'm Tanya Nassa
 
-<h3 align="center">
-B.Tech Student • DSA Enthusiast • Machine Learning Enthusiast
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Data+Structures+%26+Algorithms;Machine+Learning+Enthusiast;Backend+Development+Learner;Always+Learning+New+Things+🚀"/>
-</p>
+### B.Tech Student • DSA Enthusiast • Machine Learning Enthusiast
 
 ---
 
@@ -22,78 +16,82 @@ B.Tech Student • DSA Enthusiast • Machine Learning Enthusiast
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=cpp,python,git,github,mysql,vscode,html,css"/>
+### Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-</p>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔗 Shortify-AI
-
+## 🔗 Shortify-AI
 A URL shortening platform built using **C++**.
 
-### 📊 Customer Churn Prediction
+**Tech Stack:** C++, Crow Framework, REST API
+
+Repository:
+https://github.com/tanyanassa07/Shortify-ai
+
+---
+
+## 📊 Customer Churn Prediction
 
 Machine Learning project for predicting customer churn using multiple classification models.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanyanassa&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyanassa&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn
 
 ---
 
-## 🔥 GitHub Streak
+## 💻 DSA
 
-<p align="center">
+Collection of Data Structures & Algorithms solutions in C++.
 
-<img src="https://streak-stats.demolab.com?user=tanyanassa&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanyanassa&theme=tokyo-night"/>
-
-</p>
+Repository:
+https://github.com/tanyanassa07/DSA
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Stats
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=tanyanassa07&show_icons=true&theme=tokyonight)
 
-<a href="https://github.com/tanyanassa" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/tanya-nassa-b64816313/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:tanyanassa07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyanassa07&layout=compact&theme=tokyonight)
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile!
-</h3>
+# 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=tanyanassa07&theme=tokyonight)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=tanyanassa07&theme=tokyo-night)
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanyanassa)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanyanassa07)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+
+---
+
+# ⭐ Thanks for visiting my profile!
+
+If you like my repositories, don't forget to ⭐ them.
